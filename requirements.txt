@@ -1,0 +1,10 @@
+# Project 7: To-Do List Application
+# Requirements:
+# This project uses Python's standard library modules only:
+# - argparse
+# - json
+# - os
+# - sys
+#
+# No external packages or third-party dependencies are required.
+# Compatible with Python 3.7+
